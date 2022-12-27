@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+.container {
+    height: 10vh;  
+    padding: 105;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    width:30em;
+    position: relative;  
+  };
+
+.login {
+    width: 300px;
+    height: min-content;
+    border-radius: 5px;
+    padding: 200px;
+}  
+
+#abc{
+    width:100%;
+    height: 30px;
+    
+}
+
+.btn{
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(7, 152, 133);
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form{
+    background-color: rgb(230, 235, 235);
+    padding: 15px;
+    width:54%;
+    margin: 50px
+
+    
+}
+
